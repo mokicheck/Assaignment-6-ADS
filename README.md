@@ -2,7 +2,7 @@
 
 Certainly! Here's the information about each class in your code:
 
-## `main` class [Link](Main.java)
+## `main` class [Link](main.java)
 - This class contains the main method and serves as the entry point for the program.
 - It provides a menu-driven interface for interacting with the graph and running different graph algorithms.
 - The user can choose options to add vertices, add edges, print the graph, perform breadth-first search, perform Dijkstra's algorithm, or exit the program.
